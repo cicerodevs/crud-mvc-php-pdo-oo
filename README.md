@@ -9,11 +9,11 @@ O banco de dados do projeto, possui 4 tabelas sendo três, relacionadas com a pr
 # Recursos e Linguagens
 - PHP
 - JavaScript
-- Bootstrap 4.5 CDN
+- Bootstrap 4.5.2 CDN
 
 # Database
 - MySQL
-> O projeto de ser salvo em um diretório chamado **vikings**, devido algumas configurações.
+> Para testar este projeto, salve os arquivos em um diretório chamado **vikings**, pois, algumas url's de redirecionamento estão como **http://localhost/vikings**. Devido a isso, desconsidere o este diretório **crud-mvc-php-pdo-oo**.
 
 Página principal
 
