@@ -16,4 +16,9 @@ O banco de dados do projeto, possui 4 tabelas sendo três, relacionadas com a pr
 > O projeto de ser salvo em um diretório chamado **vikings**, devido algumas configurações.
 
 Página principal
+
 ![Página principal](https://github.com/cicerodevs/crud-mvc-php-pdo-oo/blob/master/public/images/vikings-cap.PNG)
+
+Detalhes do funcionário
+
+![Página detalhes](https://github.com/cicerodevs/crud-mvc-php-pdo-oo/blob/master/public/images/vikings-show.PNG)
