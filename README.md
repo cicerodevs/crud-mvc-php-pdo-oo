@@ -6,7 +6,7 @@ O banco de dados do projeto, possui 4 tabelas sendo três, relacionadas com a pr
 # Arquitetura
 - MVC
 
-# Recursos e Linguages
+# Recursos e Linguagens
 - PHP
 - JavaScript
 - Bootstrap 4.5 CDN
