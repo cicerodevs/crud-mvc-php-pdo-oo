@@ -13,7 +13,7 @@ O banco de dados do projeto, possui 4 tabelas sendo três, relacionadas com a pr
 
 # Database
 - MySQL
-> Para testar este projeto, salve os arquivos em um diretório chamado **vikings**, pois, algumas url's de redirecionamento estão como **http://localhost/vikings**. Devido a isso, desconsidere o diretório **crud-mvc-php-pdo-oo**.
+> Para testar este projeto, salve os arquivos em um diretório chamado **vikings**, pois, algumas url's de redirecionamento estão como **http://localhost/vikings**. Devido a isso, renomeie o diretório **crud-mvc-php-pdo-oo** para **vikings**.
 
 Página principal
 
