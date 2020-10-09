@@ -13,3 +13,4 @@ O banco de dados do projeto, possui 4 tabelas sendo três, relacionadas com a pr
 
 # Database
 - MySQL
+> O projeto de ser salvo em um diretório chamado **vikings**, devido algumas configurações.
